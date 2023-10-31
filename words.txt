@@ -1,0 +1,258 @@
+# satnav (n)
+# satellite navigation: a system of computers and satellites, used in vehicles and other places to tell you where something is, where you are, or how to get to a place
+# Many cars are now fitted with satnav.
+# certain (adj)
+# having no doubt or knowing exactly that something is true, or known to be true, correct, exact, or effective
+# Are you absolutely certain (that) you gave them the right number?
+# stereotype (n)
+# a set idea that people have about what someone or something is like, especially an idea that is wrong
+# The characters in the book are just stereotypes.
+# claim (v)
+# to say that something is true or is a fact, although you cannot prove it and other people might not believe it
+# He claims to have met the president, but I don't believe him.
+# turn out (pv)
+# to happen in a particular way or to have a particular result, especially an unexpected one
+# The truth turned out to be stranger than we had expected.
+# jigsaw (n)
+# a picture stuck onto wood or cardboard and cut into pieces of different shapes that must be joined together correctly to form the picture again
+# We spent all evening doing a 1,000-piece jigsaw.
+# coach (n,2)
+# a long motor vehicle with comfortable seats, used to take groups of people on journeys
+# We're going to the airport by coach.
+# ferry (n)
+# a boat or ship for taking passengers and often vehicles across an area of water, especially as a regular service
+# We're going to the Channel Islands by/on the ferry.
+# lorry (n)
+# a truck 
+# a long-distance lorry driver
+# motorway (n)
+# a wide road for fast-moving traffic, especially in the UK, Ireland, and some other countries, with a limited number of places at which drivers can enter and leave it
+# Soon after we joined the motorway, the car started to make a strange noise.
+# belt (n)
+# a strip of leather or material worn around the waist to support clothes or for decoration
+# This belt's too big - I'll have to punch an extra hole in it.
+# fine (n,2)
+# an amount of money that has to be paid as a punishment for not obeying a rule or law
+# If found guilty, he faces six months in jail and a heavy (= severe) fine.
+# jam (n,1)
+# a sweet, soft food made by cooking fruit with sugar to preserve it. It is eaten on bread:
+# strawberry/raspberry jam
+# jam (n,2)
+# traffic
+# We were stuck in a jam for two hours.
+# rank (n,2)
+# a row, especially of people or things standing side by side
+# There were no taxis at the taxi rank
+# devote (v)
+# to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person:
+# She has devoted all her energies/life to the care of homeless people.
+# consumer (n)
+# a person who buys goods or services for their own use
+# Consumers did not spend as much last quarter as analysts predicted.
+# desire (v)
+# to want something, especially strongly
+# The hotel had everything you could possibly desire.
+# subjective (adj)
+# influenced by or based on personal beliefs or feelings, rather than based on facts
+# The problem is that it is a very subjective decision
+# associate (v)
+# to connect someone or something in your mind with someone or something else
+# Most people associate this brand with good quality
+# associate with (ph)
+# to spend time with a group of people, especially people who are disapproved of:
+# I don't want my children associating with drug addicts and alcoholics.
+# conform (v)
+# to behave according to the usual standards of behaviour that are expected by a group or society
+# At our school, you were required to conform, and there was no place for originality.
+# masculine (adj)
+# having characteristics that are traditionally thought to be typical of or suitable for men
+# She looks a bit masculine in that suit
+# behold - beheld - beheld (v)
+# to see or look at someone or something
+# The new bridge is an incredible sight to behold.
+# notion (n)
+# a belief or idea
+# Dave's got some strange notion that you're only respectable if you own a piece of property.
+# deformed (adj)
+# with a shape that has not developed normally
+# The child was born with a deformed heart.
+# format (n)
+# a pattern, plan, or arrangement
+# The meeting will have the usual format - introductory session, group work and then a time for reporting back.
+# protect (v)
+# to keep someone or something safe from injury, damage, or loss
+# clothing that protects you against the cold
+# crucial (adj)
+# extremely important or necessary
+# Her work has been crucial to the project's success.
+# leisure (n)
+# the time when you are not working or doing other duties
+# Most people only have a limited amount of leisure time.
+# permanent (adj)
+# lasting for a long time or for ever
+# Are you looking for a temporary or a permanent job?
+# dial (v)
+# to operate a phone or make a phone call to someone by choosing a particular series of numbers on the phone
+# Can I dial this number direct, or do I have to go through the operator?
+# hang up (pv)
+# to end a phone conversation
+# He started shouting so I hung up (on him).
+# engaged (adj)
+# If a phone or public toilet has this adjective, someone is already using it
+# Every time I call her, she is engaged.
+# go off (pv)
+# If a warning device does this verb,it starts to ring loudly or make a loud noise
+# Didn't you hear your alarm clock going off this morning?
+# cut off (pv)
+# a fixed point or limit at which something is stopped
+# 31 March is the cutoff date for applications to be accepted
+# concerts (n)
+# a performance of music by one or more musicians or singers
+# a pop/classical concert
+# cosmetic (n)
+# substances that you put on your face or body that are intended to improve your appearance:
+# We sell a wide range of cosmetics and toiletries at a very reasonable price
+# retailer (n)
+# a person, shop, or business that sells goods to the public:
+# a big electronics retailer
+# below grade (pv)
+# If the thing does not reach the required limit
+# Products that are below grade are not sold
+# specification (adj)
+# a detailed description of how something should be done, made, etc.
+# All products are made exactly to the customer's specifications
+# monopolize (v)
+# in business, to control something completely and to prevent other people having any effect on what happens
+# The company had monopolized the photography market for so many decades that they didn't worry about competition from other companies.
+# aggressively (adv)
+# in an angry and violent way
+# Small children often behave aggressively.
+# fade (v)
+# to (cause to) lose colour, brightness, or strength gradually
+# If you hang your clothes out in the bright sun, they will fade.
+# sector (n)
+# one of the areas into which the economic activity of a country is divided
+# In the financial sector, banks and insurance companies have both lost a lot of money.
+# resident (n)
+# a person who lives or has their home in a place
+# The hotel bar was only open to residents 
+# obviously (adv)
+# in a way that is easy to understand or without teachers.
+# He was in tears and obviously very upset.
+# ferocious (adj)
+# frightening and violent
+# a ferocious battle
+# release (v)
+# to give freedom or free movement to someone or something
+# He was released from prison after serving two years of a five-year sentence.
+# treatment (n)
+# the way you deal with or behave towards someone or something
+# Peter gets special treatment because he knows the boss.
+# vibrant (adj)
+# energetic, exciting, and full of enthusiasm
+# a vibrant city
+# rude (adj)
+# not polite; offensive or embarrassing
+# It's rude not to say "Thank you" when you are given something.
+# decline (v)
+# to gradually become less, worse, or lower
+# His interest in the project declined after his wife died.
+# frightened (adj)
+# feeling fear or worry
+# She gets frightened when he shouts at her.
+# reproduction (n)
+# the process of having babies, producing young, or producing new plants
+# We are researching the reproduction of elephants
+# grasp (v)
+# to quickly take something in your hand(s) and hold it firmly
+# Shahad suddenly grasped my hand.
+# distinctive (adj)
+# marking something as clearly different from others
+# a distinctive smell/taste
+# conflict (n)
+# an active disagreement between people with opposing opinions or principles
+# There was a lot of conflict between him and his father.
+# landscape (n)
+# a large area of land, especially in relation to its appearance
+# We drove through a barren, rocky landscape.
+# poverty (n)
+# the condition of being extremely poor
+# Two million people in the city live in abject (= very great) poverty
+# elusive (adj)
+# difficult to describe, find, achieve, or remember
+# The answers to these questions remain as elusive as ever
+# suburb (n)
+# an area outside a city but near it and consisting mainly of homes, sometimes also having stores and small businesses
+# Most of the people who live in the suburbs work in the city
+# wire (n)
+# a piece of thin metal thread that can be bent, used for fastening things and for making particular types of objects that are strong but can bend:
+# a wire fence
+# threatened (adj)
+# in danger, or likely to stop existing
+# The panda is the best known of our threatened species.
+# tend to (pv)
+# to be likely to behave in a particular way or have a particular characteristic
+# Nurses tended to the injured.
+# extinct (adj)
+# not now existing
+# There is concern that the giant panda will soon become extinct.
+# vet[veterinarian] (n)
+# a person with a medical degree trained to take care of the health of animals
+# The farmer called the vet out to treat a sick cow.
+# collar (v)
+# to put a strap or device around an animal's neck, for example as a way of controlling it, or discovering or recording where it goes
+# The family dog is collared, leashed and taken for a walk.
+# bruise (n)
+# an injury or mark where the skin has not been broken but is darker in color, often as a result of being hit by something
+# She had a few cuts and bruises but nothing serious.
+# nuts (n)
+# the dry fruit of particular trees that grows in a hard shell and can often be eaten
+# I'm allergic to nuts.
+# leaf (n)
+# one of the flat, usually green parts of a plant that are joined at one end to the stem or branch:
+# He was raking up leaves in his garden
+# pouch (n)
+# a pocket on the lower part of the body of some female animals in which their young are carried and protected after they are born:
+# Kangaroos carry their young in pouches.
+# rescue (v)
+# to help someone or something out of a dangerous, harmful, or unpleasant situation
+# The government has refused to rescue the company from bankruptcy.
+# doubt (n)
+# (a feeling of) not being certain about something, especially about how good or true it is:
+# I'm having doubts about his ability to do the job.
+# appropriate (adj)
+# suitable or right for a particular situation or occasion
+# Is this film appropriate for small children?
+# inconsiderate (adj)
+# not thinking or worrying about other people or their feelings:
+# Our neighbors are very inconsiderate - they're always playing loud music late at night.
+# optimistic (adj)
+# hoping or believing that good things will happen in the future:
+# She is optimistic about her chances of winning a gold medal.
+# pessimistic (adj)
+# thinking that bad things are more likely to happen or emphasizing the bad part of a situation
+# The doctors are pessimistic about his chances of recovery.
+# depressed (adj)
+# unhappy and without hope
+# She became deeply depressed when her husband died.
+# instrument (n)
+# an object, such as a piano, guitar, or drum, that is played to produce musical sounds:
+# Which instrument do you play?
+# portrait (n)
+# a painting, photograph, drawing, etc. of a person or, less commonly, of a group of people
+# a portrait painter
+# embarrassed (adj)
+# feeling ashamed or shy:
+# She felt embarrassed about undressing in front of the doctor.
+# frustrating (adj)
+# making you feel annoyed or less confident because you cannot achieve what you want:
+# He doesn't listen to what I say and it's so frustrating.
+# narrative (n)
+# a story or a description of a series of events:
+# It's a moving narrative of wartime adventure.
+# descriptive (adj)
+# describing something, especially in a detailed, interesting way
+# a descriptive essay
+# complicated (adj)
+# involving a lot of different parts, in a way that is difficult to understand
+# The rules are rather complicated to follow.
