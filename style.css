@@ -32,3 +32,16 @@ body {
   border-radius: 15px;
   padding: 20px;
 }
+@media (max-width: 450px) {
+  .showNext p {
+    font-size: 20px;
+    margin: 15px;
+  }
+  .showNext input {
+    font-size: 18px;
+    padding: 15px;
+  }
+  .showNext .example {
+    padding: 15px;
+  }
+}
