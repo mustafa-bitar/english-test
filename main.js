@@ -18,13 +18,23 @@ function ne2st(lines) {
   return lists;
 }
 function showNext(questions, answers, examples) {
+  let showNext = document.querySelector(".showNext");
+  let userAnswer = document.querySelector(".showNext .user");
+  let resultPlace = document.querySelector(".showNext .result");
   let questionPlace = document.querySelector(".showNext .question");
   let answerPlace = document.querySelector(".showNext .answer");
   let examplePlace = document.querySelector(".showNext .example");
   let showBtn = document.querySelector(".showNext .show");
   let nextBtn = document.querySelector(".showNext .next");
   let counter = 0;
+  let mistakes = [];
   nextBtn.onclick = function () {
+    if (!questions.length) {
+      showNext.innerHTML = `
+      <p>done</p>
+      <br>
+      <p>${mistakes}<p>`;
+    }
     let randomItem = Math.floor(Math.random() * questions.length);
     let forQuestion = questions[randomItem];
     let forAnswers = answers[randomItem];
@@ -33,11 +43,23 @@ function showNext(questions, answers, examples) {
     answers.splice(randomItem, 1);
     examples.splice(randomItem, 1);
     questionPlace.innerHTML = ++counter + ": " + forQuestion;
+    userAnswer.value = "";
+    resultPlace.innerHTML = "Result";
     answerPlace.innerHTML = "Answer";
     examplePlace.innerHTML = "Examble";
+    showBtn.style.display = "inline";
     showBtn.onclick = function () {
       answerPlace.innerHTML = forAnswers;
       examplePlace.innerHTML = forExamples;
+      if (
+        userAnswer.value == forAnswers.substring(1, forAnswers.indexOf("(") - 1)
+      ) {
+        resultPlace.innerHTML = "True";
+      } else {
+        resultPlace.innerHTML = "False";
+        mistakes.push(forAnswers);
+      }
+      showBtn.style.display = "none";
     };
   };
 }
