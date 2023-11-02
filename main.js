@@ -28,7 +28,8 @@ function showNext(questions, answers, examples) {
   let nextBtn = document.querySelector(".showNext .next");
   let counter = 0;
   let mistakes = [];
-  nextBtn.onclick = function () {
+  nextBtn.onclick = function (eve) {
+    eve.preventDefault();
     if (!questions.length) {
       showNext.innerHTML = `
       <p>done</p>
@@ -49,6 +50,7 @@ function showNext(questions, answers, examples) {
     examplePlace.innerHTML = "Examble";
     showBtn.style.display = "inline";
     showBtn.onclick = function () {
+      eve.preventDefault();
       answerPlace.innerHTML = forAnswers;
       examplePlace.innerHTML = forExamples;
       if (
